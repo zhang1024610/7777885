@@ -2,7 +2,7 @@
 
 **若需部署 V2Ray VLESS，请转到 [vless](https://github.com/zhang1024610
 /
-7777885
+7777885989
 ) 分支。**
 
 ## 概述
